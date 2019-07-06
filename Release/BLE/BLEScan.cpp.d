@@ -1,4 +1,4 @@
-C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_m5stack-core-esp32\Release\BLE\BLEScan.cpp.o: \
+C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_esp32\Release\BLE\BLEScan.cpp.o: \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\libraries\BLE\src\BLEScan.cpp \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2/tools/sdk/include/config/sdkconfig.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2/tools/sdk/include/esp32/esp_err.h \

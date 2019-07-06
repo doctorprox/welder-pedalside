@@ -1,4 +1,4 @@
-C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_m5stack-core-esp32\Release\M5Stack\utility\MPU9250.cpp.o: \
+C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_esp32\Release\M5Stack\utility\MPU9250.cpp.o: \
  C:\Users\lovel\OneDrive\Documents\Arduino\libraries\M5Stack\src\utility\MPU9250.cpp \
  c:\users\lovel\onedrive\documents\arduino\libraries\m5stack\src\m5stack.h \
  c:\users\lovel\onedrive\documents\arduino\libraries\m5stack\src\gitTagVersion.h \
@@ -128,7 +128,7 @@ C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_m5stack-core-esp
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\cores\esp32/IPAddress.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\cores\esp32/HardwareSerial.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\cores\esp32/Esp.h \
- C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\variants\m5stack_core_esp32/pins_arduino.h \
+ C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\variants\esp32/pins_arduino.h \
  C:\Users\lovel\OneDrive\Documents\Arduino\libraries\Wire\src/Wire.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\cores\esp32/esp32-hal.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2/tools/sdk/include/freertos/freertos/queue.h \

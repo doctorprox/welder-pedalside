@@ -1,4 +1,4 @@
-C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_m5stack-core-esp32\Release\FS\FS.cpp.o: \
+C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_esp32\Release\FS\FS.cpp.o: \
  C:\Users\lovel\OneDrive\Documents\Arduino\libraries\FS\src\FS.cpp \
  C:\Users\lovel\OneDrive\Documents\Arduino\libraries\FS\src\FS.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\cores\esp32/Arduino.h \
@@ -109,5 +109,5 @@ C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_m5stack-core-esp
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\cores\esp32/IPAddress.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\cores\esp32/HardwareSerial.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\cores\esp32/Esp.h \
- C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\variants\m5stack_core_esp32/pins_arduino.h \
+ C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\variants\esp32/pins_arduino.h \
  C:\Users\lovel\OneDrive\Documents\Arduino\libraries\FS\src\FSImpl.h

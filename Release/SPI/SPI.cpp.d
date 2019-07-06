@@ -1,4 +1,4 @@
-C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_m5stack-core-esp32\Release\SPI\SPI.cpp.o: \
+C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_esp32\Release\SPI\SPI.cpp.o: \
  C:\Users\lovel\OneDrive\Documents\Arduino\libraries\SPI\src\SPI.cpp \
  C:\Users\lovel\OneDrive\Documents\Arduino\libraries\SPI\src\SPI.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2/tools/sdk/include/newlib/stdlib.h \
@@ -17,7 +17,7 @@ C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_m5stack-core-esp
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2/tools/sdk/include/newlib/sys/cdefs.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2/tools/sdk/include/newlib/machine/stdlib.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2/tools/sdk/include/newlib/alloca.h \
- C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\variants\m5stack_core_esp32/pins_arduino.h \
+ C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\variants\esp32/pins_arduino.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2/tools/sdk/include/newlib/stdint.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2/tools/sdk/include/newlib/sys/_intsup.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\cores\esp32/esp32-hal-spi.h

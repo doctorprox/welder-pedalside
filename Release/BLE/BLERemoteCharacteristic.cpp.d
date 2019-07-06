@@ -1,4 +1,4 @@
-C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_m5stack-core-esp32\Release\BLE\BLERemoteCharacteristic.cpp.o: \
+C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_esp32\Release\BLE\BLERemoteCharacteristic.cpp.o: \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\libraries\BLE\src\BLERemoteCharacteristic.cpp \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\libraries\BLE\src\BLERemoteCharacteristic.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2/tools/sdk/include/config/sdkconfig.h \

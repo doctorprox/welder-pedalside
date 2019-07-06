@@ -1,4 +1,4 @@
-C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_m5stack-core-esp32\Release\SD\sd_diskio.cpp.o: \
+C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_esp32\Release\SD\sd_diskio.cpp.o: \
  C:\Users\lovel\OneDrive\Documents\Arduino\libraries\SD\src\sd_diskio.cpp \
  C:\Users\lovel\OneDrive\Documents\Arduino\libraries\SD\src\sd_diskio.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\cores\esp32/Arduino.h \
@@ -127,7 +127,7 @@ C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_m5stack-core-esp
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\cores\esp32/IPAddress.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\cores\esp32/HardwareSerial.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\cores\esp32/Esp.h \
- C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\variants\m5stack_core_esp32/pins_arduino.h \
+ C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\variants\esp32/pins_arduino.h \
  C:\Users\lovel\OneDrive\Documents\Arduino\libraries\SPI\src/SPI.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2\cores\esp32/esp32-hal-spi.h \
  C:\Users\lovel\OneDrive\Documents\Arduino\libraries\SD\src\sd_defines.h \

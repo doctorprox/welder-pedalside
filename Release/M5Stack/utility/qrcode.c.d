@@ -1,4 +1,4 @@
-C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_m5stack-core-esp32\Release\M5Stack\utility\qrcode.c.o: \
+C:\Users\lovel\AppData\Local\Temp\VMBuilds\ESP32_BLE_TEST\esp32_esp32\Release\M5Stack\utility\qrcode.c.o: \
  C:\Users\lovel\OneDrive\Documents\Arduino\libraries\M5Stack\src\utility\qrcode.c \
  C:\Users\lovel\OneDrive\Documents\Arduino\libraries\M5Stack\src\utility\qrcode.h \
  C:\Users\lovel\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.2/tools/sdk/include/newlib/stdint.h \

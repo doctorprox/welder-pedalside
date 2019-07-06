@@ -56,9 +56,13 @@ class MyServerCallbacks : public BLEServerCallbacks {
 
 void setup() {
 	M5.begin();
+	dacWrite(25, 0);
 	Serial.begin(115200);
 	M5.Lcd.fontHeight(10);
 
+	//pinMode(35, INPUT);
+	//m5.Speaker.mute();
+	//M5.Lcd.setBrightness(0);
 	// Create the BLE Device
 	BLEDevice::init("WRCV");
 
@@ -91,23 +95,39 @@ void setup() {
 	pAdvertising->setScanResponse(false);
 	pAdvertising->setMinPreferred(0x0);  // set value to 0x00 to not advertise this parameter
 	BLEDevice::startAdvertising();
-	Serial.println("Waiting a client connection to notify...");
-	M5.Lcd.println("Waiting a client connection to notify...");
+	Serial.println("Waiting for a client connection to notify...");
+	M5.Lcd.println("Waiting for a client connection to notify...");
+}
+
+void readadc() {
+	int32_t mainknob;
+	int32_t pedal;
+	pedal = 4095-analogRead(35);
+	pedal += 250;
+	if (pedal > 4095) {
+		pedal = 4095;
+	}
+	mainknob = 4096-analogRead(36);
+	value = pedal * mainknob;
+	value = value/4096;
+	
+	value *= 5;
+	value += 3600;
+//	Serial.println(mainknob);
+//	Serial.println(pedal);
+//	Serial.println(value);
+
 }
 
 void loop() {
 	// notify changed value
+	readadc();
 	if (deviceConnected) {
 		pCharacteristic->setValue((uint8_t*)&value, 4);
 		pCharacteristic->notify();
-		if (value == 10) {
-			value = 40;
-		}
-		else {
-			value = 10;
-		}
-		delay(2000); // bluetooth stack will go into congestion, if too many packets are sent, in 6 hours test i was able to go as low as 3ms
+ // bluetooth stack will go into congestion, if too many packets are sent, in 6 hours test i was able to go as low as 3ms
 	}
+	delay(100);
 	// disconnecting
 	/*
 	if (!deviceConnected && oldDeviceConnected) {
